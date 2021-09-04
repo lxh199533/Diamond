@@ -2,7 +2,7 @@
 
 这是一个方便没钱但又想定制钻石戒指给女朋友的男同胞们选择裸钻的系统
 
-![fig](https://github.com/lxh199533/Diamond/blob/main/dashboard/dashboard.png)
+![fig](https://raw.githubusercontent.com/lxh199533/Diamond/main/dashboard/dashboard.png)
 
 #### 设计
 
